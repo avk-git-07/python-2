@@ -1,6 +1,2 @@
-n1 = "vamshi"
-n2 = "krishna"
-fn = n1 + " " + n2
-print("The length of the name ", fn, "is ", len(fn))
-
-    
+res = round(2.213415, 2)
+print("Rounded value of 2.213415 is : ", res)
