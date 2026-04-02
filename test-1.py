@@ -1,4 +1,4 @@
 arn = "vamshi"
-print(arn.upper())
+print(arn.title())
 
     
