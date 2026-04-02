@@ -1,4 +1,4 @@
-arn = "vamshi"
-print(arn.title())
+arn = "vamshi krishna"
+print(arn.capitalize())
 
     
